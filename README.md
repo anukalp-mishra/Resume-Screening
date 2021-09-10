@@ -13,4 +13,5 @@
   <li>Skills and knowledge</li>
   <li>Personality traits</li>
   <li>Competencies</li>
+  <h2>Tech innovations in resume screening</h2>
 </b>
