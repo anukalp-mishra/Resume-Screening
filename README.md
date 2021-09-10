@@ -21,5 +21,7 @@
   <ul>
     <li>Designed to meet the needs of recruiters that current technology can’t solve, a new class of recruiting technology called AI for recruitment has arrived.</li>
     <li>AI for recruiting is an emerging category of HR technology designed to reduce — or even remove — time-consuming, administrative activities like manually screening resumes.     </li>
+    <li>The best AI software is designed to integrate seamlessly with your current recruiting stack so it doesn’t disrupt your workflow nor the candidate workflow.</li>
+    <li>Industry experts predict this type of automation technology will transform the recruiting function.</li>
   </ul>
 </b>
