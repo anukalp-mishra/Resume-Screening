@@ -7,7 +7,7 @@
   <li>In a nutshell, it’s a form of pattern matching between a job’s requirements and the qualifications of a candidate based on their resume.</li>
   <li>The goal of screening resumes is to decide whether to move a candidate forward – usually onto an interview – or to reject them.</li>
   </ul>
-  <h2>How it Works</h2>
+  <h2>Functionality of Application</h2>
   <p>Screening resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-job performance and are ideally captured in the job description.</p>
   <p>These qualifications can include:</p>
   <ul>
