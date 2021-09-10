@@ -16,8 +16,8 @@
   <li>Skills and knowledge</li>
   <li>Personality traits</li>
   <li>Competencies</li>
+    </ul>
   <h2>Tech innovations in resume screening</h2>
-  </ul>
   <ul>
     <li>Designed to meet the needs of recruiters that current technology can’t solve, a new class of recruiting technology called AI for recruitment has arrived.</li>
     <li>AI for recruiting is an emerging category of HR technology designed to reduce — or even remove — time-consuming, administrative activities like manually screening resumes.     </li>
