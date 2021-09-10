@@ -9,8 +9,8 @@
   </ul>
   <h4>How it Works</h4>
   <p>Screening resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-job performance and are ideally captured in the job description.</p>
-  <ul>
   <p>These qualifications can include:</p>
+  <ul>
   <li>Work experience</li>
   <li>Education</li>
   <li>Skills and knowledge</li>
