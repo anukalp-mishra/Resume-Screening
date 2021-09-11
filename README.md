@@ -27,15 +27,15 @@
   <li>Personality traits</li>
   <li>Competencies</li>
     </ul>
+  <h2>Tools & Technologies used</h2>
+  <ul>
+    <li>Machine Learning and Artificial intelligence, along with text mining and natural language processing algorithms, can be applied for the development of programs (i.e. Applicant Tracking Systems) capable of screening objectively thousands of resumes in few minutes without bias to identify the best fit for a job opening based on thresholds, specific criteria or scores.</li>
+  </ul>
   <h2>Tech innovations in resume screening</h2>
   <ul>
     <li>Designed to meet the needs of recruiters that current technology can’t solve, a new class of recruiting technology called AI for recruitment has arrived.</li>
     <li>AI for recruiting is an emerging category of HR technology designed to reduce — or even remove — time-consuming, administrative activities like manually screening resumes.     </li>
     <li>The best AI software is designed to integrate seamlessly with your current recruiting stack so it doesn’t disrupt your workflow nor the candidate workflow.</li>
     <li>Industry experts predict this type of automation technology will transform the recruiting function.</li>
-  </ul>
-  <h2>Tools & Technologies used</h2>
-  <ul>
-    <li>Machine Learning and Artificial intelligence, along with text mining and natural language processing algorithms, can be applied for the development of programs (i.e. Applicant Tracking Systems) capable of screening objectively thousands of resumes in few minutes without bias to identify the best fit for a job opening based on thresholds, specific criteria or scores.</li>
   </ul>
 </b>
