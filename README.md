@@ -8,16 +8,18 @@
   <li>The goal of screening resumes is to decide whether to move a candidate forward – usually onto an interview – or to reject them.</li>
   </ul>
   <h2>Modules & Libraries Description</h2>
-  <ul>Modules</ul>
-  <li>KNN</li>
-  <li>NLP</li>
   <ul>
+    <h4>Modules</h4>
+    <li>KNN</li>
+    <li>NLP</li>
+  </ul>
+  <ul>
+    <h4>Libraries</h4>
     <li>NumPy</li>
     <li>Pandas</li>
     <li>Matplotlib</li>
     <li>Seaborn</li>
     <li>Scipy</li>
-    <li>Nltk</li>
     <li>Scikit-learn</li>
   </ul>
   <h2>Functionality of Application</h2>
