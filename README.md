@@ -1,12 +1,7 @@
 <html>
 <head>
 <body>
-<style>
-  h1{
-    color:blue;
-  }
-</style>
-<h1>Machine Learning Project on Resume Screening using Python</h1>
+<h1 style="background-color:DodgerBlue;">Machine Learning Project on Resume Screening using Python</h1>
 <h2>Introduction :-</h2><br>
 <b>
   <ul>
