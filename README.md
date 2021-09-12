@@ -24,6 +24,7 @@
     <li>Seaborn</li>
     <li>Scipy</li>
     <li>Scikit-learn</li>
+      <li>Nltk</li>
     </ul>
   </ul>
   <h2>Functionality of Application</h2>
