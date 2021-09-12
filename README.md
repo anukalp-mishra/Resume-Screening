@@ -1,4 +1,7 @@
-# Machine Learning Project on Resume Screening using Python<br>
+<html>
+<head>
+<body>
+<h1>Machine Learning Project on Resume Screening using Python</h1>
 <h2>Introduction :-</h2><br>
 <b>
   <ul>
@@ -48,3 +51,6 @@
     <li>Industry experts predict this type of automation technology will transform the recruiting function.</li>
   </ul>
 </b>
+</body>
+</head>
+</html>
