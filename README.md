@@ -1,4 +1,3 @@
-# Resume-Screening<br>
 # Machine Learning Project on Resume Screening using Python<br>
 <h2>Introduction :-</h2><br>
 <b>
