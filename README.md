@@ -8,6 +8,9 @@
   <li>The goal of screening resumes is to decide whether to move a candidate forward – usually onto an interview – or to reject them.</li>
   </ul>
   <h2>Modules & Libraries Description</h2>
+  <ul>Modules</ul>
+  <li>KNN</li>
+  <li>NLP</li>
   <ul>
     <li>NumPy</li>
     <li>Pandas</li>
