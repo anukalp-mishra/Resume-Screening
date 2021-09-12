@@ -9,14 +9,14 @@
   </ul>
   <h2>Modules & Libraries Description</h2>
   <ul>
-    <h4>Modules:</h4>
+    <h4>Modules :-</h4>
     <ul>
     <li>KNN</li>
     <li>NLP</li>
     </ul> 
   </ul>
   <ul>
-    <h4>Libraries:</h4>
+    <h4>Libraries :-</h4>
     <ul>
     <li>NumPy</li>
     <li>Pandas</li>
