@@ -10,17 +10,21 @@
   <h2>Modules & Libraries Description</h2>
   <ul>
     <h4>Modules</h4>
+    <ul>
     <li>KNN</li>
     <li>NLP</li>
+    </ul> 
   </ul>
   <ul>
     <h4>Libraries</h4>
+    <ul>
     <li>NumPy</li>
     <li>Pandas</li>
     <li>Matplotlib</li>
     <li>Seaborn</li>
     <li>Scipy</li>
     <li>Scikit-learn</li>
+    </ul>
   </ul>
   <h2>Functionality of Application</h2>
   <p>Screening resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-job performance and are ideally captured in the job description.</p>
