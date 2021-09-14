@@ -1,4 +1,5 @@
 <h1>Machine Learning Project on Resume Screening using Python</h1>
+<img src="Cover.png" alt ="resume cover">
 <h2>Introduction :-</h2><br>
 <b>
   <ul>
