@@ -9,7 +9,7 @@
   </ul>
   <h2>Modules & Libraries Description</h2>
   <ul>
-    <h4><strong>Modules :-</strong></h4>
+    <h4>Modules :-</h4>
     <ul>
     <li>KNN</li>
       <dl>
