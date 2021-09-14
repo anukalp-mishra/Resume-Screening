@@ -19,7 +19,9 @@
     <h4>Libraries :-</h4>
     <ul>
     <li>NumPy</li>
+      <dl>
       <dd>NumPy is one of the fundamental packages for Python providing support for large multidimensional arrays and matrices</dd>
+      </dl>
     <li>Pandas</li>
     <li>Matplotlib</li>
     <li>Seaborn</li>
