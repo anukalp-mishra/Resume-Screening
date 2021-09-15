@@ -1,5 +1,13 @@
 <h1>Machine Learning Project on Resume Screening using Python</h1>
 <img src="Cover.png" alt ="resume cover">
+<h2>Why do we need Resume Screening?</h2>
+<ul>
+<li>For each recruitment, companies take out the resume, referrals and go through them manually.</li>
+<li>Companies often submit thousands of resumes for every posting.</li>
+<li>When companies collect resumes then they categorize those resumes according to their requirements and then they send the collected resumes to the Hiring Team's.</li>
+<li>It becomes very difficult for the hiring teams to read the resume and select the resume according to the requirement, there is no problem if there are one or two resumes but it is very difficult to go through 1000’s resumes and select the best one.</li>
+<li>To solve this problem, we will read and screen the resume using machine learning with Python so that we can complete days of work in few minutes.</li>
+</ul>
 <h2>Introduction :-</h2><br>
 <b>
   <ul>
