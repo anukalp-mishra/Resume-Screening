@@ -20,23 +20,50 @@
     <h4>Modules :-</h4>
     <ul>
     <li>KNN</li>
+      <dl>
+      <dd>- It's supervised technique, used for classification or regression. "K" in the KNN repersent the number of nearest neighbours used to classify or predict in case of continuous variable/regression.</dd>
+      </dl>
     <li>NLP</li>
+      <dl>
+      <dd>- NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.</dd>
+      </dl>
     </ul> 
   </ul>
   <ul>
     <h4>Libraries :-</h4>
     <ul>
     <li>NumPy</li>
+      <dl>
+      <dd>- NumPy is one of the fundamental packages for Python providing support for large multidimensional arrays and matrices</dd>
+      </dl>
     <li>Pandas</li>
+      <dl>
+      <dd>- It is an open-source, Python library. Pandas enable the provision of easy data structure and quicker data analysis for Python. For operations like data analysis and             modelling, </dd>
+      </dl>
     <li>Matplotlib</li>
+      <dl>
+      <dd>- This open-source library in Python is widely used for publication of quality figures in a variety of hard copy formats and interactive environments across platforms.             You can design charts, graphs, pie charts, scatterplots, histograms, error charts, etc. with just a few lines of code.</dd>
+      </dl>
     <li>Seaborn</li>
+      <dl>
+      <dd>- When it comes to visualisation of statistical models like heat maps, Seaborn is among the reliable sources. This Python library is derived from Matplotlib and                   closely integrated with Pandas data structures.</dd>
+      </dl>
     <li>Scipy</li>
+      <dl>
+      <dd>- This is yet another open-source software used for scientific computing in Python. Apart from that, Scipy is also used for Data Computation, productivity, and high-               performance computing and quality assurance.</dd>
+      </dl>
     <li>Scikit-learn</li>
+      <dl>
+      <dd>- It is a free software machine learning library for the Python programming language and can be effectively used for a variety of applications which include                       classification, regression, clustering, model selection, naive Bayes’, grade boosting, K-means, and preprocessing.</dd>
+      </dl>
       <li>Nltk</li>
+      <dl>
+      <dd>- Natural Language toolkit or NLTK is said to be one among the popular Python NLP Libraries. It contains a set of processing libraries that provide processing                     solutions for numerical and symbolic language processing in English only. The toolkit comes with a dynamic discussion forum that allows you to discuss and bring up               any issues relating to NLTK.</dd>
+      </dl>
     </ul>
   </ul>
   <h2>Functionality of Application</h2>
-  <p>Screening resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-job performance and are ideally captured in the job description.</p>
+  <p>Screening resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-   job performance and are ideally captured in the job description.</p>
   <p>These qualifications can include:</p>
   <ul>
   <li>Work experience</li>
