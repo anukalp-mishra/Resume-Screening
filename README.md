@@ -58,7 +58,7 @@
       </dl>
       <li>Nltk</li>
       <dl>
-      <dd>- Natural Language toolkit or NLTK is said to be one among the popular Python NLP Libraries. It contains a set of processing libraries that provide processing                     solutions for numerical and symbolic language processing in English only. The toolkit comes with a dynamic discussion forum that allows you to discuss and bring up               any issues relating to NLTK.</dd>
+      <dd>- Natural Language toolkit or NLTK is said to be one among the popular Python NLP Libraries. It contains a set of processing libraries that provide processing                     solutions for numerical and symbolic language processing in English only.</dd>
       </dl>
     </ul>
   </ul>
