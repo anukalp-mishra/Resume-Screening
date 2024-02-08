@@ -84,3 +84,18 @@
     <li>Industry experts predict this type of automation technology will transform the recruiting function.</li>
   </ul>
 </b>
+
+## Getting started with development
+
+> git clone https://github.com/anukalp-mishra/Resume-Screening.git
+
+> cd Resume-Screening
+
+> conda create -n test_env python=3.11.7 anaconda
+
+> conda activate test_env
+
+> pip install -r requirements.txt
+
+Run the [Resume_Screening.ipynb](./Resume_Screening.ipynb)
+
