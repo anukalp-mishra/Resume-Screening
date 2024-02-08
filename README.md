@@ -87,7 +87,7 @@
 
 ## Getting started with development
 
-> git clone https://github.com/anukalp-mishra/Resume-Screening.git
+> git clone https://github.com/sheikirfanbasha/Resume-Screening.git
 
 > cd Resume-Screening
 
