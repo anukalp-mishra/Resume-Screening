@@ -79,7 +79,7 @@ git clone https://github.com/anukalp-mishra/Resume-Screening.git
 cd Resume-Screening
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 Follow these steps to use the project:
 
 Prepare your dataset of resumes.
